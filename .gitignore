@@ -1,0 +1,9 @@
+**/.runtime/
+**/runtime/
+**/.venv/
+**/.pbi/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.env
+**/secrets.toml
+.DS_Store

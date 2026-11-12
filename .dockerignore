@@ -1,0 +1,17 @@
+.git
+**/.env
+**/secrets.toml
+**/.runtime
+**/runtime
+**/.venv
+**/__pycache__
+**/.pbi
+**/*.ipynb
+pump-telemetry/data
+pump-telemetry/original
+pump-telemetry/*.Report
+pump-telemetry/*.SemanticModel
+maintenance-watch/powerbi
+maintenance-watch/powerbi_demo
+maintenance-watch/data/ai4i2020.csv
+maintenance-watch/data/tableau_replay_sample.csv
