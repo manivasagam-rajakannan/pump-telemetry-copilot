@@ -2,6 +2,10 @@
 
 Predictive maintenance for a simulated industrial pump. The Streamlit operator screen scores vibration, temperature, pressure, and motor current. FastAPI stores the scored readings in PostgreSQL, and Power BI Desktop displays alerts through DirectQuery.
 
+## Try the hosted demo
+
+Open the app, expand **Upload pump readings**, and click **Run sample CSV**. The sample saves two readings and flags one for overheating. The alert includes the training-manual checklist. [Open Pump Telemetry Copilot](https://pump-telemetry-copilot-f7q1.onrender.com/)
+
 ## Try the demo on Windows
 
 1. Extract or clone the repository. Open `pump-telemetry/OPEN_OPERATOR_SCREEN.cmd` and keep the terminal open.
